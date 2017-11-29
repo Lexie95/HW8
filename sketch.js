@@ -10,8 +10,8 @@ function setup() {
 
 function draw() {
   fill(value);
-  ellipse(width/2-150, height/2,90);
-  ellipse(width/2+150, height/2,90);
+  ellipse(width/2-150, height/2,120);
+  ellipse(width/2+150, height/2,120);
     
   fill(0);
   ellipse(width/2-150, height/2,20);
