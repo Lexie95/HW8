@@ -14,8 +14,8 @@ function draw() {
   ellipse(width/2+150, height/2,90);
     
   fill(0);
-  ellipse(width/2-150, height/2,10);
-  ellipse(width/2+150, height/2,10);
+  ellipse(width/2-150, height/2,20);
+  ellipse(width/2+150, height/2,20);
 
 }
 
